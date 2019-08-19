@@ -60,3 +60,25 @@ They are going to watch the world cup in South Afica
 
 奇怪的是，South Afica前面不用加The
 
+## 问题5：
+
+Can you and sam paint this bookcase?
+
+Yes, We Can
+
+What can you and sam do?==What can you do?
+
+因为you的复数也是you，所以，What can you do?也能表示，你们能做什么，这个意思吧？
+
+# 问题6：
+
+The ship is going ___  the bridge
+
+答案是under，但是还有一个选项是across。
+
+如果是across的话，句子就变成
+
+the ship is going across the bridge
+
+这个句子有语法问题吗？
+
