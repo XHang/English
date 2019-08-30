@@ -82,3 +82,24 @@ the ship is going across the bridge
 
 这个句子有语法问题吗？
 
+
+
+## 问题7：
+
+It is usually ___ in spring
+
+备选由
+
+1. raining
+2. rain
+3. rains
+4. to rain
+
+答案是raining ,解释是be+单词的现在分词表示现在进行时或者一种状态。
+
+什么鬼，一种状态，好像是一般现在时吧，但是一般现在是也没有加ing的情况哪？
+
+
+
+
+
