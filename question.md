@@ -99,7 +99,17 @@ It is usually ___ in spring
 
 什么鬼，一种状态，好像是一般现在时吧，但是一般现在是也没有加ing的情况哪？
 
+## 问题7：
 
+What's the matter ____ you
 
+1. wtih
 
+2. after
+
+3. on
+
+4. to
+
+   答案是with 意为固定搭配，请问什么和什么是固定搭配？
 
