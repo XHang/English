@@ -118,3 +118,18 @@ What's the matter ____ you
 Is that all?
 
 怎么理解成：就这些？
+
+
+
+## 收获1：
+
+some后面加的如果是可数名词，要将其变成复数。
+比如说
+
+I need to buy  some tomatoes
+
+## 收获2：
+
+What time is it now?
+
+对时间提问，形式主语一般用it
