@@ -133,3 +133,9 @@ I need to buy  some tomatoes
 What time is it now?
 
 对时间提问，形式主语一般用it
+
+# 问题8：
+
+I don't feel ill now
+
+now 表示句子处于现在进行时，为什么feel不是用它的现在分词形式？
