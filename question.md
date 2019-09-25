@@ -40,23 +40,29 @@ My wife and I are walking along the banks of the river
 
 问题来了，为什么要用连词and而不是with呢？
 
+with其实也可以，and也勉强可以用
+
 问题来了，这句子是现在进行时？感觉又不太像，为什么用的是动词的ing形式？
+
+要联系上下文，也许上下文 就是现在进行时
 
 
 
 ## 问题4：
 
-Tim is my neighbour His house is  on the Left Side of my House
+Tim is my neighbour， His house is  on the Left Side of my House
 
 为什么是on？
 
 他的房子在我的房子左边的上面？？？
 
+on the 方位介词 是一个固定搭配来着
+
 
 
 ## 问题5：
 
-They are going to watch the world cup in South Afica
+They are going to watch the world cup in South Africa
 
 奇怪的是，South Afica前面不用加The
 
@@ -82,6 +88,8 @@ the ship is going across the bridge
 
 这个句子有语法问题吗？
 
+没有
+
 
 
 ## 问题7：
@@ -99,6 +107,8 @@ It is usually ___ in spring
 
 什么鬼，一种状态，好像是一般现在时吧，但是一般现在是也没有加ing的情况哪？
 
+动名词的说，。。。。
+
 ## 问题7：
 
 What's the matter ____ you
@@ -112,6 +122,8 @@ What's the matter ____ you
 4. to
 
    答案是with 意为固定搭配，请问什么和什么是固定搭配？
+   
+   学过了，What's the matter with  xxx 是一个句式，用于询问某人怎么样了
 
 ## 问题7：
 
