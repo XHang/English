@@ -153,3 +153,8 @@ What time is it now?
 I don't feel ill now
 
 now 表示句子处于现在进行时，为什么feel不是用它的现在分词形式？
+
+## 问题9：
+
+They are going to have breakfast
+
