@@ -154,7 +154,11 @@ I don't feel ill now
 
 now 表示句子处于现在进行时，为什么feel不是用它的现在分词形式？
 
-## 问题9：
+# 问题9：
 
-They are going to have breakfast
+Can you pass the apple to me?自己想的
+
+Can you pass me the apple? 实际答案
+
+自己想的对吗！？
 
