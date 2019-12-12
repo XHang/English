@@ -1,4 +1,4 @@
-## 问题1（OK）
+# 问题1（OK）
 
 有一个英语句子是这么写的
 
@@ -18,7 +18,7 @@ what is  weather like today?
 
 指双方都明确的事物，像这句话所指的，weather 就是双方都知道，它指的是今天的天气
 
-## 问题2（OK）
+# 问题2（OK）
 
 Today is hot Let's go swimming 
 
@@ -34,7 +34,7 @@ us是we的宾格，但是就句子成分看来，`us`不像是宾语，为什么
 
 动词或介词后面的代词，要用宾格
 
-## 问题3：（OK）
+# 问题3：（OK）
 
 My wife and I are walking along the banks of the river
 
@@ -46,9 +46,7 @@ with其实也可以，and也勉强可以用
 
 要联系上下文，也许上下文 就是现在进行时
 
-
-
-## 问题4：（OK）
+# 问题4：（OK）
 
 Tim is my neighbour， His house is  on the Left Side of my House
 
@@ -58,9 +56,7 @@ Tim is my neighbour， His house is  on the Left Side of my House
 
 on the 方位介词 是一个固定搭配来着
 
-
-
-## 问题5：（OK）
+# 问题5：（OK）
 
 They are going to watch the world cup in South Africa
 
@@ -68,7 +64,7 @@ They are going to watch the world cup in South Africa
 
 South Afica 是南非这个国家，国家前面一般不需要加the
 
-## 问题5：（OK）
+# 问题5：（OK）
 
 Can you and sam paint this bookcase?
 
@@ -92,9 +88,7 @@ the ship is going across the bridge
 
 没有
 
-
-
-## 问题7：（OK）
+# 问题7：（OK）
 
 It is usually ___ in spring
 
@@ -111,7 +105,7 @@ It is usually ___ in spring
 
 动名词的说，。。。。
 
-## 问题7：（OK）
+# 问题7：（OK）
 
 What's the matter ____ you
 
@@ -127,7 +121,7 @@ What's the matter ____ you
    
    学过了，What's the matter with  xxx 是一个句式，用于询问某人怎么样了
 
-## 问题7：（OK）
+# 问题7：（OK）
 
 Is that all?
 
@@ -161,4 +155,12 @@ Can you pass the apple to me?自己想的
 Can you pass me the apple? 实际答案
 
 自己想的对吗！？
+
+# 问题10：
+
+He failed the exam beacuse it wasn't easy enough（课材的示例）
+
+He failed to the exam,beacuse it wasn't easy enough（自己想的）
+
+哪里不对？
 
