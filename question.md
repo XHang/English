@@ -164,3 +164,17 @@ He failed to the exam,beacuse it wasn't easy enough（自己想的）
 
 哪里不对？
 
+# 问题11：
+
+I am heavier than you are
+
+I am heavier than you 
+
+这两个句子有什么不同
+
+第二句是我想的，第一句是老师说的
+
+
+
+
+
