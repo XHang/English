@@ -174,7 +174,9 @@ I am heavier than you
 
 第二句是我想的，第一句是老师说的
 
+## 问题12：
 
+I started to learn English when I was 9 years old
 
-
+I have started to learn english when I was 9 years old
 
