@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "form 改为from"
+git commit -m "第10单元复习"
 git push
 
 pause
