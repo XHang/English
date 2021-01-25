@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "整理笔记"
+git commit -m "LP4笔记"
 git push
 
 pause
