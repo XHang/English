@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "come from和come的区别"
+git commit -m "docs: 更新词根"
 git push
 
 pause
