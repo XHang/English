@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "docs: 十二单元预习笔记"
+git commit -m "docs: 音标笔记"
 git push
 
 pause
