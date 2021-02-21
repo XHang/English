@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "docs: 添加可数和不可数"
+git commit -m "docs: 十二单元预习笔记"
 git push
 
 pause
