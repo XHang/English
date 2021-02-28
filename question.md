@@ -174,9 +174,10 @@ I am heavier than you
 
 第二句是我想的，第一句是老师说的
 
-## 问题12：
 
-I started to learn English when I was 9 years old
 
-I have started to learn english when I was 9 years old
+#  问题12：
 
+when do you buy food in your neighborhood?
+
+这个句子不能解释为，你什么时候在街道上买食物吗？
