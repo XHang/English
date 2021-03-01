@@ -142,28 +142,6 @@ What time is it now?
 
 对时间提问，形式主语一般用it
 
-# 问题8：
-
-I don't feel ill now
-
-now 表示句子处于现在进行时，为什么feel不是用它的现在分词形式？
-
-# 问题9：
-
-Can you pass the apple to me?自己想的
-
-Can you pass me the apple? 实际答案
-
-自己想的对吗！？
-
-# 问题10：
-
-He failed the exam beacuse it wasn't easy enough（课材的示例）
-
-He failed to the exam,beacuse it wasn't easy enough（自己想的）
-
-哪里不对？
-
 # 问题11：
 
 I am heavier than you are
@@ -174,6 +152,8 @@ I am heavier than you
 
 第二句是我想的，第一句是老师说的
 
+都可以，但是第一句有点多余
+
 
 
 #  问题12：
@@ -181,3 +161,5 @@ I am heavier than you
 when do you buy food in your neighborhood?
 
 这个句子不能解释为，你什么时候在街道上买食物吗？
+
+可以这么解释，但是意思怪怪的，如果有where选项，会更合适
