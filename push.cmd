@@ -1,6 +1,6 @@
 git status
 git add --all
-git commit -m "docs: 最新单元笔记-残缺"
+git commit -m "docs: LP8 笔记"
 git push
 
 pause
