@@ -1,7 +1,7 @@
 git status
 git add --all
 
-git commit -m "docs: 错题本更新"
+git commit -m "docs: lp预习"
 
 git push
 
