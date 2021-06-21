@@ -1,7 +1,7 @@
-ï»¿git status
+git status
 git add --all
 
-git commit -m "docs: é”™è¯¯å‹˜æ­£"
+git commit -m "docs: ¸Ä´íÌâ"
 
 git push
 
