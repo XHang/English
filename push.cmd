@@ -1,7 +1,7 @@
 git status
 git add --all
 
-git commit -m "docs: 特指笔记"
+git commit -m "docs: 冠词笔记"
 
 git push
 
