@@ -1,7 +1,7 @@
 git status
 git add --all
 
-git commit -m "docs: ±Ê¼Ç"
+git commit -m "docs: ´ð°¸"
 
 git push
 
